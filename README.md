@@ -1,4 +1,4 @@
-# Conflux Online Chat
+# Realtime Online Chat
 Chatting web application with authentication, live searching, one to one chat, message seen/unseen, new message notification, emoji sending features.
 
 
